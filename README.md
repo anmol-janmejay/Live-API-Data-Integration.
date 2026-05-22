@@ -4,7 +4,7 @@ An interactive Power BI dashboard project that analyzes global development indic
 
 ## Dashboard Preview
 
-![World Indicators Analysis Dashboard](D:\Projects\Project_03 API INTEGRATION\screenshots/dashboard.png)
+![World Indicators Analysis Dashboard](screenshots/dashboard.png)
 
 
 ## Project Overview
