@@ -115,4 +115,5 @@ Data is collected from the [World Bank API](https://datahelpdesk.worldbank.org/k
 
 ## Author
 
-Created as a data analytics and API integration project using Python and Power BI.
+Anmol Janmejay  
+Aspiring Data Analyst | AI/ML Engineer
